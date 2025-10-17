@@ -1,0 +1,2 @@
+# Hospital-Data_-Science_Analytics-and-Automation-Manual-Works
+I provide end-to-end data-driven solutions for hospitals to improve operational efficiency, increase patient acquisition, optimize costs, and enhance overall revenue. The projects demonstrate practical applications of Python, Machine Learning, Data Analytics, and Automation in healthcare. Automation also help us to automate manual work similar.
